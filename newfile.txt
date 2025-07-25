@@ -1,3 +1,1 @@
-Add new line to test git revert functionality.
-
 Added one more extra line to revert.
